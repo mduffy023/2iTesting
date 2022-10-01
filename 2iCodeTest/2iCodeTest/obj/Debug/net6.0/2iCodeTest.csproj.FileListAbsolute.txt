@@ -1,0 +1,15 @@
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\bin\Debug\net6.0\2iCodeTest.exe
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\bin\Debug\net6.0\2iCodeTest.deps.json
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\bin\Debug\net6.0\2iCodeTest.runtimeconfig.json
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\bin\Debug\net6.0\2iCodeTest.dll
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\bin\Debug\net6.0\2iCodeTest.pdb
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.csproj.AssemblyReference.cache
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.AssemblyInfoInputs.cache
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.AssemblyInfo.cs
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.csproj.CoreCompileInputs.cache
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.dll
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\refint\2iCodeTest.dll
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.pdb
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\2iCodeTest.genruntimeconfig.cache
+C:\Users\M_duf\Desktop\2iCodeTest\2iCodeTest\obj\Debug\net6.0\ref\2iCodeTest.dll
